@@ -1,0 +1,9 @@
+{
+  "monday": "sun",
+  "tuesday": "rain",
+  "wednesday": "snow",
+  "thursday": "freezing",
+  "friday": "storms"
+  "saturday": "unknown",
+  "sunday": "downpour"
+}
