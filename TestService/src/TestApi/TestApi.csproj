@@ -10,4 +10,30 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="obj\Debug\net6.0\apphost" />
+      <Content Include="obj\Debug\net6.0\staticwebassets.build.json" />
+      <Content Include="obj\Debug\net6.0\TestApi.AssemblyInfoInputs.cache" />
+      <Content Include="obj\Debug\net6.0\TestApi.assets.cache" />
+      <Content Include="obj\Debug\net6.0\TestApi.csproj.AssemblyReference.cache" />
+      <Content Include="obj\Debug\net6.0\TestApi.csproj.CopyComplete" />
+      <Content Include="obj\Debug\net6.0\TestApi.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net6.0\TestApi.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net6.0\TestApi.dll" />
+      <Content Include="obj\Debug\net6.0\TestApi.genruntimeconfig.cache" />
+      <Content Include="obj\Debug\net6.0\TestApi.MvcApplicationPartsAssemblyInfo.cache" />
+      <Content Include="obj\Debug\net6.0\TestApi.pdb" />
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\project.packagespec.json" />
+      <Content Include="obj\rider.project.restore.info" />
+      <Content Include="obj\staticwebassets.pack.sentinel" />
+      <Content Include="obj\TestApi.csproj.nuget.dgspec.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+      <Compile Include="obj\Debug\net6.0\TestApi.MvcApplicationPartsAssemblyInfo.cs" />
+    </ItemGroup>
+
 </Project>
